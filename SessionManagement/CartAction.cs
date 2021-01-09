@@ -82,5 +82,10 @@ namespace CartManagement.Repositories
             return cartList.Find(cart => cart.Id == id);
         }
 
+        public List<Cart> getCartsInfo()
+        {
+            return JsonConvert.DeserializeObject<List<Cart>>(File.ReadAllText("cart.json"));
+        }
+
     }
 }

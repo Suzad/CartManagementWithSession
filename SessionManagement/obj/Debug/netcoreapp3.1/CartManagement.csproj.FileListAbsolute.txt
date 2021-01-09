@@ -20,3 +20,4 @@ D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManage
 D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\CartManagement.dll
 D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\CartManagement.pdb
 D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\CartManagement.genruntimeconfig.cache
+D:\Suzad\Books & notes\3-2\software_design_&_architecture\last lab\SessionManagement\obj\Debug\netcoreapp3.1\CartManagement.csprojAssemblyReference.cache
